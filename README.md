@@ -4,7 +4,7 @@
 
 * Soft aim
 
-**NOTE:**Will auto attach on start*
+**NOTE:***Will auto attach on start*
 
 **Bot-Net**
 
