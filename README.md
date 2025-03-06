@@ -20,3 +20,9 @@ Open the program and input your webhook and tell someone to open it!
 **RoLua**
 
 A roblox executor, just like any other, but working! (Looks like JJ)
+
+**RageX - GTA V**
+
+Like for fortnite, but for GTA V!
+
+* Soft aim
